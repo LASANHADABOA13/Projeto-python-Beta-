@@ -1,2 +1,2 @@
-# Projeto-python-Beta-
+# Projeto-python-(beta)
 Relatorio sobre a covid feito com python
